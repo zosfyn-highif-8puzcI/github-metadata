@@ -1,5 +1,14 @@
-## Using `site.github`
+<!Doctype html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"content="width=device-width,initial-scale=1.0">
+    <title>Login | SL code Hub</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- boxicons -->
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'
+</head>
 Common repository information, such as the project name and description, is available to Jekyll sites using `jekyll-github-metadata` including GitHub Pages sites.
 
 #### Usage
